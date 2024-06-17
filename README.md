@@ -13,6 +13,6 @@ Several selected newly generated emojis are shown below:
 <p float="left">
   <img src="/selectedOuput/generated/girl_generated.jpeg" width="100" />
   <img src="/selectedOuput/generated/happy_face_generated.jpeg" width="100" /> 
-  <img src="/selectedOuput/generated/sad_face_generated.jpeg" width="100" />
+  <img src="/selectedOuput/generated/sad_face_generated.png" width="100" />
   <img src="/selectedOuput/generated/very_sad_face_generated.jpeg" width="100" />
 </p>
