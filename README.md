@@ -9,12 +9,10 @@ The model is referenced from [Radford et al., 2015](https://arxiv.org/abs/1511.0
 
 
 Several selected newly generated emojis are shown below:
-![alt text](https://github.com/JYL123/Emoji-Generator/blob/main/selectedOuput/generated/girl_generated.jpeg)
 
-![alt text](https://github.com/JYL123/Emoji-Generator/blob/main/selectedOuput/generated/very_sad_face_generated.jpeg)
-
-![alt text](https://github.com/JYL123/Emoji-Generator/blob/main/selectedOuput/generated/happy_face_generated.jpeg)
-
-
-![alt text](https://github.com/JYL123/Emoji-Generator/blob/main/selectedOuput/generated/sad_face_generated.png)
-
+<p float="left">
+  <img src="/selectedOuput/generated/girl_generated.jpeg" width="100" />
+  <img src="/selectedOuput/generated/happy_face_generated.jpeg" width="100" /> 
+  <img src="/selectedOuput/generated/sad_face_generated.jpeg" width="100" />
+  <img src="/selectedOuput/generated/very_sad_face_generated.jpeg" width="100" />
+</p>
